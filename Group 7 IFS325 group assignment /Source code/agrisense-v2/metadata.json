@@ -1,0 +1,5 @@
+{
+  "name": "agrisense V2",
+  "description": "A modern dashboard for farmers to visualize, analyze, and act on real-time soil health data from IoT sensors, enhanced with AI-driven insights and recommendations from Gemini.",
+  "requestFramePermissions": []
+}
