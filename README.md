@@ -84,7 +84,7 @@ Project Demo
 Webiste URL: https://agrisense-v2-avfr.vercel.app/#/login 
 Email: farmer@agrisense.com
 Password: AgriSenseDemo123!
-Test collabaration
+
 <img width="1863" height="863" alt="image" src="https://github.com/user-attachments/assets/8b2d9742-76e2-493b-acc3-b5fc1c074d5c" />
 
 ---
